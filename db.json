@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "first_name": "John",
+            "last_name": "Doe",
+            "location": "New York",
+            "branch": "Branch-1",
+            "basic_salary": 60000,
+            "birth_date": "01/08/1990"
+        },
+        {
+            "id": 2,
+            "first_name": "Mary",
+            "last_name": "Williams",
+            "location": "Manchester",
+            "branch": "Branch-2",
+            "basic_salary": 45000,
+            "birth_date": "25/12/1995"
+        }
+    ]
+}
